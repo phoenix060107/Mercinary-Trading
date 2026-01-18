@@ -61,7 +61,3 @@ Contributions are welcome. For small fixes, open a pull request with a short exp
 ## License
 
 This repository will use the MIT License by default. If you prefer another license, tell me and I will switch it.
-
----
-
-If you'd like, I can replace the empty `README.md` with this generated README; say "Replace" and I'll perform the replacement.
